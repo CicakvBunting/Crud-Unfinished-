@@ -11,4 +11,4 @@ the structure of database is 1. IDproduct 2. Harga 3.NAMAproduct 4.DESKproduct 5
 
 
 this is unfinished 
-i still need to add more design on the web than u
+i still need to add more design on the web thank u
